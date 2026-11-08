@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Python model files
+*.pkl
+
+# Data files
+*.csv
+
+# Mage logs
+mage.log
+
+# Python cache
+__pycache__/
+
+# Virtual environment
+.venv/
